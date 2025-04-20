@@ -34,7 +34,7 @@ El portfolio está dividido en las siguientes secciones:
 
 ## 📸 Captura de pantalla
 
-
+![Preview del portfolio](./assets/preview.png)
 
 ---
 
